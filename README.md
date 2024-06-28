@@ -40,3 +40,8 @@ Se verificaron las actualizaciones para asegurar la compatibilidad con el proyec
     "glob": "^9.0.0"
   }
 }
+
+## Se instala tailwin
+
+ahora se utiliza 
+npm install react-router-dom
